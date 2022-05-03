@@ -1,112 +1,167 @@
 {
 	"animations": [
 		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "pico idle0",
+			"indices": []
+		},
+		{
 			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
+			"fps": 12,
+			"name": "pico idle0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				65,
-				9
+				-18,
+				2
 			],
-			"fps": 24,
+			"loop": false,
+			"fps": 12,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Pico Note Right0"
+			"name": "pico left0"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-68,
-				-7
+				6,
+				4
 			],
-			"fps": 24,
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "pico down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-26
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "pico up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-3
+			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"name": "pico right0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-60,
-				41
+				-18,
+				2
 			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				62,
-				64
-			],
-			"fps": 24,
+			"fps": 12,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "Pico Note Right Miss"
+			"name": "pico left miss0"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				6,
+				4
 			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				200,
-				-70
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				210,
-				-28
-			],
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Pico Down Note MISS"
+			"fps": 12,
+			"name": "pico down miss0",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				67
+				12,
+				-26
 			],
-			"fps": 24,
 			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "pico up miss0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "pico Up note miss"
+			"name": "pico right miss0"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "shoot",
+			"indices": [],
+			"name": "pico shoot0"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "resistStart",
+			"indices": [],
+			"name": "pico resist start0"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "resistLoop",
+			"indices": [],
+			"name": "pico resist loop0"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "resistEnd",
+			"indices": [],
+			"name": "pico resist end0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/Dusttale_Pico",
 	"position": [
-		0,
-		300
+		-200,
+		70
 	],
-	"healthicon": "pico",
+	"healthicon": "DTpico",
 	"flip_x": true,
 	"healthbar_colors": [
 		183,
@@ -114,8 +169,8 @@
 		85
 	],
 	"camera_position": [
-		0,
-		0
+		100,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1

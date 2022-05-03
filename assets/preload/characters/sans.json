@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "dust sans idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "dust sans left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				17
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "dust sans down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "dust sans up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "dust sans right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dusttale_Sans",
+	"position": [
+		-300,
+		-70
+	],
+	"healthicon": "DTsans",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		128,
+		128
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

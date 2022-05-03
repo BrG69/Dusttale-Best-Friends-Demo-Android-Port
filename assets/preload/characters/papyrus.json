@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "papyrus idle0"
+		},
+		{
+			"offsets": [
+				-64,
+				-6
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "papyrus left0"
+		},
+		{
+			"offsets": [
+				-79,
+				17
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "papyrus down0"
+		},
+		{
+			"offsets": [
+				-3,
+				-15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "papyrus up0"
+		},
+		{
+			"offsets": [
+				-4,
+				-7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "papyrus right0"
+		},
+		{
+			"offsets": [
+				-54,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "dies",
+			"indices": [],
+			"name": "papyrus dead0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dusttale_Papyrus",
+	"position": [
+		-300,
+		-120
+	],
+	"healthicon": "DTpapyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		128,
+		128
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

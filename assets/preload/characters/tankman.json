@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "tankman idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "tankman left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "tankman down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "tankman up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "tankman right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "tankman left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "tankman down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "tankman up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "tankman right miss0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankman",
+	"position": [
+		-200,
+		-60
+	],
+	"healthicon": "DTtankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
