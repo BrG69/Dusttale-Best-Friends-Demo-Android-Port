@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Redeemer", "papyrus", [225, 0, 0]],
+		["Withdrawal", "papyrus", [34, 51, 68]],
+		["Dusty Blizzard", "sans", [128, 128, 128]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "Ruins",
+	"weekName": "Snowdin",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
